@@ -1,3 +1,5 @@
+# Copyright (c) 2021 ETH Zurich
+
 import sys, os
 import pickle
 import pandas as pd

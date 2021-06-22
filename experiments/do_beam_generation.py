@@ -1,3 +1,5 @@
+# Copyright (c) 2021 ETH Zurich
+
 import os, sys
 import argparse
 import configparser
