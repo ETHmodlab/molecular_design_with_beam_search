@@ -31,7 +31,7 @@ Access on the journal webpage (TODO: add the link when officially published)
 First, you need to [clone the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository):
 
 ```
-git clone git@github.com:michael1788/molecular_design_with_beam_search.git
+git clone git@github.com:ETHmodlab/molecular_design_with_beam_search.git
 ```
 Then, you can run the following command, which will create a conda virtual environement and install all the needed dependencies (if you don't have conda installed, you can get it first by following the instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)):   
 
