@@ -1,10 +1,5 @@
 # SPECIFIC to this repo
 experiments/results/
-data/
-!data/chembl24_cleaned_unique_canon.txt
-!data/our_np.txt
-!data/known_rorgamma_1um.txt
-!data/pdb_us.txt
 ###
 
 # mac stuff
