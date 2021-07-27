@@ -5,6 +5,7 @@ import argparse
 import time
 import configparser
 import ast
+import pandas  # TensorFlow backend needs this import
 
 from keras import backend as K
 from keras.layers import Dense, LSTM, TimeDistributed, BatchNormalization
